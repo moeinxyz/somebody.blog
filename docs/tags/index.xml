@@ -6,9 +6,21 @@
    <description>Recent content in Tags on Moein Hosseini&#39;s Blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
+   <managingEditor>abc@moein.xyz (Moein Hosseini)</managingEditor>
+   <webMaster>abc@moein.xyz (Moein Hosseini)</webMaster>
+   <lastBuildDate>Sat, 03 Apr 2021 14:50:00 +0100</lastBuildDate>
    
        <atom:link href="https://somebody.blog/tags/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Hello World!</title>
+       <link>https://somebody.blog/posts/hello-world/</link>
+       <pubDate>Sat, 03 Apr 2021 14:50:00 +0100</pubDate>
+       <author>abc@moein.xyz (Moein Hosseini)</author>
+       <guid>https://somebody.blog/posts/hello-world/</guid>
+       <description>&lt;p&gt;Hello world!&lt;/p&gt;&lt;p&gt;This is Somebody, really this is Somebody! I’m thrilled about some things, and I’m here to share what I&amp;rsquo;ll find interesting for myself.&lt;/p&gt;&lt;h2 id=&#34;little-about-me&#34;&gt;Little about me&lt;/h2&gt;&lt;p&gt;My name is Moein Hosseini. I write code in Scala, Java and Python and have been working as Software and Data Engineer for almost 6 years.&lt;/p&gt;&lt;p&gt;I was born in Iran, finished my education and met my lovely wife there. We&amp;rsquo;ve been living in London since 2020, and I work as Senior Software Engineer at &lt;a href=&#34;https://qunatcast.com&#34;&gt;Quantcast&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;These days I&amp;rsquo;m learning how to plan piano, the only instrument that I&amp;rsquo;ve ever touched.&lt;/p&gt;&lt;p&gt;You can find more about my work experiences in &lt;a href=&#34;https://moein.xyz&#34;&gt;&lt;strong&gt;moein.xyz&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://somebody.blog/hello-world/together.jpg#mid&#34; alt=&#34;Together&#34;&gt;&lt;/p&gt;&lt;h2 id=&#34;what-will-you-hear-from-me&#34;&gt;What will you hear from me?&lt;/h2&gt;&lt;p&gt;To be honest there are few things that cheer me up, mostly solving a problem using programming or figuring out something related to it.&lt;/p&gt;&lt;p&gt;Here I would probably share some stuff related to programming, JVM and Big Data.&lt;/p&gt;</description>
+     </item>
    
  </channel>
 </rss>

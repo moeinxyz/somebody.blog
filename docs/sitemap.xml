@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://somebody.blog/categories/</loc>
+    <loc>https://somebody.blog/posts/hello-world/</loc>
+    <lastmod>2021-04-03T14:50:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://somebody.blog/</loc>
+    <lastmod>2021-04-03T14:50:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://somebody.blog/tags/personal/</loc>
+    <lastmod>2021-04-03T14:50:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://somebody.blog/posts/</loc>
+    <lastmod>2021-04-03T14:50:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://somebody.blog/tags/</loc>
+    <lastmod>2021-04-03T14:50:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://somebody.blog/categories/</loc>
   </url>
   
 </urlset>
