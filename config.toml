@@ -1,0 +1,29 @@
+baseURL = "https://somebody.blog/"
+languageCode = "en-us"
+title = "Moein Hosseini's Blog"
+canonifyurls = true
+theme = "hugo-kiera"
+publishDir = "docs"
+menu = "main"
+meta = "false"
+
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #somebody-blog
+googleAnalytics = "" #G-JJ91547WDC
+
+[author]
+    name = "Moein Hosseini"
+    email = "abc@moein.xyz"
+    site = "moein.xyz"
+    github = "moein7tl"
+    linkedin = "moeinhm"
+    twitter = "moeinxyz"
+
+
+
+[params]
+    tagline = "I'm Moein Hosseini, Somebody who writes code!"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = true # disables css style for users using dark-mode
